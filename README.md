@@ -1,2 +1,6 @@
 # teaching-portfolio
-teaching portfolio for EDS 124BR
+Hey everyone! I'm Wesley, and this is my teaching portfolio. I can't wait to add new projects here for my portfolio!
+
+## Check my work out!
+
+TODO
